@@ -30,6 +30,7 @@ function render() {
 	app.innerHTML = `
     <div class="layout">
       <aside class="sidebar">
+	  	<h1>ToDo</h1>
         <h2>Smart Sort</h2>
         <ul id="smartViews">
           <li data-view="all">All</li>

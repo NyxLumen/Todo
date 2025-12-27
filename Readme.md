@@ -4,6 +4,8 @@ A multi-project task manager built with vanilla JavaScript and Webpack.
 
 This app supports persistent storage, smart filtering, modal-based task management, and a retro-styled interface.
 
+![ToDo App Preview](./screenshot.png)
+
 ## Features
 
 - Multiple projects
@@ -13,12 +15,6 @@ This app supports persistent storage, smart filtering, modal-based task manageme
 - Delete tasks and projects
 - Retro UI
 - Built with vanilla JavaScript and Webpack
-
-## Preview
-
-![ToDo App Preview](./screenshot.png)
-
----
 
 ## Tech Stack
 

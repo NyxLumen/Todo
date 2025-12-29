@@ -378,6 +378,9 @@ body {
 	box-shadow: 4px 4px 0 var(--border-color);
 	transition: 0.1s;
 }
+.modal-actions button:hover {
+	transform: translate(-2px, -2px);
+}
 
 .modal-actions button:first-child {
 	background: var(--accent-success);
